@@ -1,0 +1,16 @@
+.card {
+    padding: 16px;
+    box-shadow: 6px 3px 13px 1px rgb(0 0 0 / 35%);
+    width: 200px;
+    border-radius: 12px;
+    margin: 12px;
+    display: inline-block;
+    overflow: hidden;
+}
+.card:hover {
+    cursor: pointer;
+}
+
+.card .margin-0 {
+    margin: 0;
+}
